@@ -1,0 +1,15 @@
+# Archivos de trabajo y configuración local
+work/
+outputs/
+.vscode/
+
+# Dependencias y registros de herramientas futuras
+node_modules/
+npm-debug.log*
+.env
+.env.*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
